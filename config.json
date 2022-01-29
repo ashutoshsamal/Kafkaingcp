@@ -1,0 +1,9 @@
+{
+  "bootstrap.servers":"pkc-6ojv2.us-west4.gcp.confluent.cloud:9092",
+  "security.protocol":"SASL_SSL",
+  "sasl.mechanisms":"PLAIN",
+  "sasl.username":"WF2XBOAXZ75ONUP7",
+  "sasl.password":"DfmiiGec3F5NmKJ8eIAEWbr53YNgRRaYrjDt//Rr0xcZETGWyUowWSoKt97AXGK2",
+  "session.timeout.ms":"4500"
+}
+
